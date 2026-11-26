@@ -1,0 +1,12 @@
+# Ket qua bien dich
+host/out/
+host/build/
+host/dist/
+
+# Cau hinh rieng cua NetBeans tren tung may
+host/nbproject/private/
+
+# CSDL cuc bo (tu tao khi chay)
+host/data/
+
+*.log

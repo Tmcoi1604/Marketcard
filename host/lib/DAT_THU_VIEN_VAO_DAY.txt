@@ -1,0 +1,3 @@
+Dat 2 file vao thu muc nay (xem README.md, muc 6.2):
+  sqlite-jdbc-3.44.1.0.jar
+  slf4j-api-1.7.36.jar
